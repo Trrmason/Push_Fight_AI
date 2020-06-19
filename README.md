@@ -26,3 +26,6 @@ To simulate a game multiple times use play_game(player#1, player#2, num_sims = #
 game_data.csv has over 500,000 boards saved so we didn't want to push the whole file. So it's just a sample of 5,000 boards   
 If you would like the whole file please contact our team.    
 You can download any needed dependencies with requirements.txt
+__
+
+Read ReasearchPaperFinal.pdf for results
